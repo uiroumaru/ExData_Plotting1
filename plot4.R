@@ -22,3 +22,4 @@ with(power_sub,{
   plot(power_sub$Time,as.numeric(as.character(power_sub$Global_reactive_power)),type="l",xlab="datetime",ylab="Global_reactive_power")
 })
 
+aaa
